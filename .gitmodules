@@ -1,0 +1,9 @@
+[submodule "libraries/STM32-base"]
+	path = libraries/STM32-base
+	url = https://github.com/STM32-base/STM32-base.git
+[submodule "libraries/STM32-base-STM32Cube"]
+	path = libraries/STM32-base-STM32Cube
+	url = https://github.com/STM32-base/STM32-base-STM32Cube.git
+[submodule "templates/STM32-base-F1-template"]
+	path = templates/STM32-base-F1-template
+	url = https://github.com/STM32-base/STM32-base-F1-template.git
